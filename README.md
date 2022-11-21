@@ -1,4 +1,4 @@
 # PatikaDev
  www.patika.dev - Homework - Java101
 
-Not ortalaması hesaplayan programım.  Kullandığınız IDE ile console üzerinden çalıştırabilirsiniz.
+patika.dev ile öğrendiklerim hakkında pratiklerim.  Kullandığınız IDE ile console üzerinden çalıştırabilirsiniz.
