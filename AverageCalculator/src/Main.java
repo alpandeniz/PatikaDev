@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		int gecerNot = 55;
+		//int gecerNot = 60;
 		int Matematik, Kimya, Fizik, Tarih, Turkce, Muzik;
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Matematik notunuz: ");
